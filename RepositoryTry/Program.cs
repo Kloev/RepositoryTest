@@ -8,6 +8,7 @@
 
             Console.WriteLine("Halløjsovs!");
 
+            Console.WriteLine("Virker det?");
         }
     }
 }
